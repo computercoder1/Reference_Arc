@@ -17,4 +17,3 @@ stroke(#92A5CE);
 strokeWeight(35);
 arc(400,300,100,100, radians(90), radians(360)); 
 
-save("REFERENCE_Arc.png");
